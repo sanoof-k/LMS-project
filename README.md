@@ -25,9 +25,9 @@ This project provides a platform where **students** can explore courses and **in
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB  
 **Version Control:** Git & GitHub  
-**Deployment Tools (Optional):** Docker, GitHub Actions  
 
 ---
 
 ## 📦 Project Structure
+
 
